@@ -1,3 +1,7 @@
+header {background-color: blueviolet;
+ display fler justify-content: 5 pance-around; align-itens-center; padding: 24px;}
+ .cabecalho-imagem {width: 20%;}
+ .cabecalho-lista-item{display: inline-block;margin: 0 16px;font-size:24px;}
 <style>
 @import url(‘https://fonts.googleapis.com/ css2?family=Chakra+Petch:wght@400;700&display=swap’);
 </style>
