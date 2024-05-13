@@ -19,3 +19,12 @@ header {background-color: blueviolet;
         color: var(--branco); 
         font-family: ‘Chakra Petch’, sans-serif;
         }
+        // <uniquifier>: Use a unique and descriptive class name
+
+.nunito-<uniquifier> {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+<h2 class=”titulo-principal”>Meus Objetivos do ano<span>_<span></h2>
