@@ -26,5 +26,10 @@ header {background-color: blueviolet;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-}
-<h2 class=”titulo-principal”>Meus Objetivos do ano<span>_<span></h2>
+
+  .titulo-principal { text-align: left;
+    width: 100%;
+    font-size: 32px;
+    }
+    .titulo-principal span {
+        color: var(--verde); }
